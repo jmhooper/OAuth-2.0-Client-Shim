@@ -1,0 +1,7 @@
+{
+  "client_id":"123abc",
+  "client_secret":"123abc",
+  "authorization_uri":"localhost:7000/oauth/authorization",
+  "token_uri":"localhost:7000/oauth/token",
+  "redirect_uri":"localhost:8008/callback"
+}
